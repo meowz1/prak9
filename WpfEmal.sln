@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfEmal", "WpfEmal\WpfEmal.csproj", "{61455497-BBC7-46D0-ACC3-1F32D72EAF42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61455497-BBC7-46D0-ACC3-1F32D72EAF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61455497-BBC7-46D0-ACC3-1F32D72EAF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61455497-BBC7-46D0-ACC3-1F32D72EAF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61455497-BBC7-46D0-ACC3-1F32D72EAF42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74519A91-D266-4D3E-B7F3-0950D653F66D}
+	EndGlobalSection
+EndGlobal
