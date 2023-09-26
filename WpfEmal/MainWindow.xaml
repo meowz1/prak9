@@ -23,11 +23,10 @@
             <TextBox.ContextMenu>
                 <ContextMenu>
                     <MenuItem Header="syperkek777@mail.ru" Click="MenuItem_Click_1"/>
-                    <MenuItem Header="Ответить" Click="MenuItem_Click"/>
                 </ContextMenu>
             </TextBox.ContextMenu>
         </TextBox>
-        <ComboBox Name="MailClick"  Margin="139,25,64,39" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2">
+        <ComboBox Name="MailClick"  Margin="139,10,64,39" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2">
             <ComboBoxItem Content="Google" Tag="imap.gmail.com"/>
             <ComboBoxItem Content="Mail" Tag="imap.mail.ru"/>
             <ComboBoxItem Content="Yandex" Tag="imap.yandex.ru"/>

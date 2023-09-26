@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "YKEm1yJpnrjj1oHrmTEiY67mjqj70jFvKLiFGOSKs2JV2pP5etBndYOBC5KiyiOOxJNYmTfHeZ3dzFsOco+Xnw==",
+  "dgSpecHash": "2i+R0jzO1kJCmcyaiji3eDwwe0HijXB1ePG7XCEcTEZMWzhvOE3WAOBJm3yeDcBWBVIH/xaiY7aquwYwFDIRcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Savva\\source\\repos\\WpfEmal\\WpfEmal\\WpfEmal.csproj",
+  "projectFilePath": "C:\\Users\\kliker\\Desktop\\WpfEmal\\WpfEmal\\WpfEmal.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Savva\\.nuget\\packages\\imapx\\2.0.0.18\\imapx.2.0.0.18.nupkg.sha512",
-    "C:\\Users\\Savva\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
-    "C:\\Users\\Savva\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+    "C:\\Users\\kliker\\.nuget\\packages\\imapx\\2.0.0.18\\imapx.2.0.0.18.nupkg.sha512",
+    "C:\\Users\\kliker\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\kliker\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\kliker\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\kliker\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\kliker\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
   ],
   "logs": [
     {

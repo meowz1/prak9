@@ -10,13 +10,13 @@
     <Compile Update="FolderPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Pismo.xaml.cs">
+    <Compile Update="Message.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Pochta.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="send.xaml.cs">
+    <Compile Update="SendMess.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -27,13 +27,13 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Pismo.xaml">
+    <Page Update="Message.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pochta.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="send.xaml">
+    <Page Update="SendMess.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

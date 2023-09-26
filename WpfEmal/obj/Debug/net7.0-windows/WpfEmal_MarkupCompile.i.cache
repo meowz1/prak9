@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Savva\source\repos\WpfEmal\WpfEmal\obj\Debug\net7.0-windows\
+C:\Users\kliker\Desktop\WpfEmal\WpfEmal\obj\Debug\net7.0-windows\
 WpfEmal
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\Savva\source\repos\WpfEmal\WpfEmal\App.xaml
-5-1774557232
+C:\Users\kliker\Desktop\WpfEmal\WpfEmal\App.xaml
+51233801287
 
-101631978539
-200-91083071
-FolderPage.xaml;MainWindow.xaml;Pismo.xaml;Pochta.xaml;send.xaml;
+10572871177
+203-1457049854
+FolderPage.xaml;MainWindow.xaml;Message.xaml;Pochta.xaml;SendMess.xaml;
 
-True
+False
 
